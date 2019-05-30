@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mustafich.github.io/Todo/static/css/main.b29ce299.chunk.css",
+    "main.js": "/mustafich.github.io/Todo/static/js/main.5e2410c4.chunk.js",
+    "main.js.map": "/mustafich.github.io/Todo/static/js/main.5e2410c4.chunk.js.map",
+    "runtime~main.js": "/mustafich.github.io/Todo/static/js/runtime~main.269b5349.js",
+    "runtime~main.js.map": "/mustafich.github.io/Todo/static/js/runtime~main.269b5349.js.map",
+    "static/js/2.28d360cc.chunk.js": "/mustafich.github.io/Todo/static/js/2.28d360cc.chunk.js",
+    "static/js/2.28d360cc.chunk.js.map": "/mustafich.github.io/Todo/static/js/2.28d360cc.chunk.js.map",
+    "index.html": "/mustafich.github.io/Todo/index.html",
+    "precache-manifest.1b9dbe8f2b50297e8e87117bb03a4ca7.js": "/mustafich.github.io/Todo/precache-manifest.1b9dbe8f2b50297e8e87117bb03a4ca7.js",
+    "service-worker.js": "/mustafich.github.io/Todo/service-worker.js",
+    "static/css/main.b29ce299.chunk.css.map": "/mustafich.github.io/Todo/static/css/main.b29ce299.chunk.css.map"
+  }
+}
